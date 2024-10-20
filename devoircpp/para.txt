@@ -1,0 +1,1 @@
+je pense que la fonction peut possede un nombre infinie des parametre jusqu'a la saturation de la memoire ram du ordinateur et ca depend  de chaque ordinateur et leur memoire ram et quand la memoire ram sature il prend qlq second pour deliberer l espace et ajoute de nouveau parametre donc c'est infinie du parametre
